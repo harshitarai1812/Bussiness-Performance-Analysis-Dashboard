@@ -8,6 +8,7 @@ The dashboard analyzes sales data to help businesses understand their **revenue 
 The goal of this project is to transform raw sales data into **meaningful business insights** that support data-driven decision making.
 
 ---
+**Dashboard Link** - https://app.powerbi.com/view?r=eyJrIjoiNDFjYzA1YmEtMDJjZC00ZDg2LTljMjUtYmJlOGY4MWZlMTM1IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
 
 # 🎯 Objectives
 
